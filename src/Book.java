@@ -8,6 +8,6 @@ public class Book {
     }
 
     public static void test(){
-        System.out.println("master");
+        System.out.println("branch");
     }
 }
