@@ -109,9 +109,6 @@ public class Main {
                         }
                     };
                     players[i][j] = cardNum;
-                    players[i][j] = cardNum;
-                    players[i][j] = cardNum;
-
                 }
             }
 
